@@ -1,0 +1,23 @@
+{
+  "name": "活動時序主控台",
+  "short_name": "時序主控",
+  "description": "桑尼娛樂活動流程與舞台計時主控系統",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080d16",
+  "theme_color": "#080d16",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
